@@ -20,18 +20,26 @@ Medium: Charcoal
 
 ### This piece is me and my brother's hand linked together. 
 
-![Charcoal Hands](hands.jpg"charcoal")
+![Charcoal Hands](hands.jpg "charcoal")
 
 ## Sushi
 
 Medium: Acrylic Paint
 ### This is a painting made for my dad he is a sushi chef. 
 
-![Sushi](sushi.jpg"Acrylics")
+![Sushi](sushi.jpg "Acrylics")
 
 ## Northern Lights
 
 Medium: Acrylics
 ### This painting contains the popular Northern Lights.
 
-![Northern Lights](NL.jpg"NL")
+![Northern Lights](NL.jpg "NL")
+
+## Bird of Paridise
+
+Medium: Water Color & Colored Pencils
+
+### This piece replicate the flower Bird of Paridise along with little water droplets.
+
+![Bird of Paridise](BP.jpg "WaterColor")
