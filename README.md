@@ -11,7 +11,7 @@ This piece required the use of a grid, transferring the image of the Castle onto
 Image [here](https://www.japan-guide.com/g21/3501_11.jpg)
 
 
-![Japanese Style Architecture](https://cdn.discordapp.com/attachments/815097159367131176/1156444477188231259/IMG_3769.jpg?ex=6514fe59&is=6513acd9&hm=e114ed03ee63894a4f7173193a658895a0693c52604314cd400a73d19aad6944& "Architecture")
+![Japanese Style Architecture](arc.jpg "Architecture")
 
 ![Charcoal Hands](https://cdn.discordapp.com/attachments/815097159367131176/1156446116217368686/IMG_4645.jpg?ex=6514ffdf&is=6513ae5f&hm=643a4455679d42a51ef35dbe204b6bc3326b0cd6df3908c66fa98ae6a5cba4e8&)
 
