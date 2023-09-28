@@ -9,7 +9,7 @@ Follow my [Instagram](https://instagram.com/shiroiih?igshid=MzRIODBiNWFIZA==).
 **Medium**: Pen
 
 ### This piece required the use of a grid, transferring the image of the Castle onto paper.
-Image [here](https://www.japan-guide.com/g21/3501_11.jpg)
+Image [here]([https://www.japan-guide.com/g21/3501_11.jpg](https://japanese-castle.com/en/himeji-castle/))
 
 
 ![Japanese Style Architecture](arc.jpg "Architecture")
